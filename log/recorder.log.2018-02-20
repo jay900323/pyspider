@@ -1,0 +1,1557 @@
+[32m[I 180220 00:00:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:01:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:02:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:03:52 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:04:52 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:05:52 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:06:52 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:07:52 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:08:52 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:09:52 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:10:52 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:11:52 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:12:52 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:13:52 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:14:52 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:15:52 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:16:52 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:17:52 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:18:52 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:19:52 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:20:53 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:21:53 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:22:53 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:23:53 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:24:53 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:25:53 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:26:53 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:27:53 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:28:53 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:29:53 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:30:53 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:31:53 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:32:53 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:33:53 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:34:53 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:35:53 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:36:53 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:37:53 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:38:53 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:39:53 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:40:54 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:41:54 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:42:54 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:43:54 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:44:54 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:45:54 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:46:54 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:47:54 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:48:54 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:49:54 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:50:54 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:51:54 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:52:54 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:53:54 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:54:55 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:55:55 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:56:55 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:57:55 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:58:55 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 00:59:55 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:00:55 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:01:55 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:02:55 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:03:55 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:04:55 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:05:55 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:06:55 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:07:55 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:08:56 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:09:56 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:10:56 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:11:56 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:12:56 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:13:56 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:14:56 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:15:56 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:16:56 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:17:56 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:18:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:19:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:20:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:21:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:22:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:23:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:24:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:25:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:26:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:27:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:28:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:29:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:30:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:31:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:32:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:33:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:34:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:35:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:36:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:37:58 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:38:58 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:39:58 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:40:58 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:41:58 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:42:58 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:43:58 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:44:58 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:45:58 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:46:58 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:47:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:48:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:49:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:50:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:51:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:52:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:53:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:54:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:55:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:56:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:57:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:58:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 01:59:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:00:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:01:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:03:00 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:04:00 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:05:00 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:06:00 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:07:00 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:08:00 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:09:00 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:10:00 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:11:00 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:12:00 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:13:00 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:14:01 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:15:01 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:16:01 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:17:01 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:18:01 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:19:01 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:20:01 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:21:01 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:22:01 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:23:01 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:24:01 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:25:02 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:26:02 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:27:02 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:28:02 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:29:02 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:30:02 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:31:02 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:32:02 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:33:02 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:34:02 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:35:03 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:36:03 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:37:03 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:38:03 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:39:03 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:40:03 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:41:03 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:42:03 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:43:03 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:44:03 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:45:03 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:46:04 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:47:04 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:48:04 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:49:04 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:50:04 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:51:04 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:52:04 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:53:04 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:54:04 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:55:04 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:56:05 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:57:05 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:58:05 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 02:59:05 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:00:05 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:01:05 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:02:05 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:03:05 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:04:05 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:05:05 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:06:05 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:07:05 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:08:06 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:09:06 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:10:06 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:11:06 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:12:06 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:13:06 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:14:06 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:15:06 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:16:06 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:17:06 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:18:07 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:19:07 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:20:07 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:21:07 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:22:07 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:23:07 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:24:07 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:25:07 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:26:07 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:27:07 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:28:07 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:29:08 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:30:08 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:31:08 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:32:08 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:33:08 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:34:08 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:35:08 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:36:08 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:37:08 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:38:08 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:39:08 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:40:08 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:41:09 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:42:09 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:43:09 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:44:09 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:45:09 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:46:09 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:47:09 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:48:09 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:49:09 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:50:09 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:51:09 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:52:09 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:53:09 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:54:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:55:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:56:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:57:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:58:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 03:59:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:00:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:01:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:02:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:03:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:04:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:05:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:06:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:07:11 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:08:11 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:09:11 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:10:11 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:11:11 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:12:11 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:13:11 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:14:11 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:15:11 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:16:11 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:17:12 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:18:12 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:19:12 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:20:12 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:21:12 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:22:12 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:23:12 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:24:12 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:25:12 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:26:12 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:27:12 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:28:12 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:29:12 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:30:12 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:31:13 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:32:13 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:33:13 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:34:13 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:35:13 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:36:13 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:37:13 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:38:13 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:39:13 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:40:13 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:41:13 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:42:13 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:43:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:44:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:45:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:46:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:47:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:48:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:49:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:50:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:51:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:52:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:53:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:54:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:55:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:56:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:57:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:58:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 04:59:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:00:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:01:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:02:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:03:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:04:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:05:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:06:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:07:15 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:08:15 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:09:15 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:10:15 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:11:15 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:12:15 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:13:15 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:14:15 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:15:15 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:16:15 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:17:15 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:18:16 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:19:16 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:20:16 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:21:16 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:22:16 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:23:16 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:24:16 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:25:16 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:26:16 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:27:16 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:28:17 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:29:17 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:30:17 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:31:17 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:32:17 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:33:17 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:34:17 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:35:17 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:36:17 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:37:17 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:38:17 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:39:17 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:40:17 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:41:17 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:42:17 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:43:17 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:44:17 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:45:17 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:46:17 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:47:17 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:48:17 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:49:17 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:50:17 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:51:18 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:52:18 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:53:18 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:54:18 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:55:18 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:56:18 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:57:18 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:58:18 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 05:59:18 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:00:18 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:01:18 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:02:18 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:03:19 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:04:19 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:05:19 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:06:19 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:07:19 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:08:19 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:09:19 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:10:19 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:11:19 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:12:19 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:13:20 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:14:20 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:15:20 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:16:20 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:17:20 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:18:20 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:19:20 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:20:20 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:21:20 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:22:20 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:23:20 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:24:21 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:25:21 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:26:21 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:27:21 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:28:21 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:29:21 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:30:21 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:31:21 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:32:21 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:33:21 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:34:21 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:35:21 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:36:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:37:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:38:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:39:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:40:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:41:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:42:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:43:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:44:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:45:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:46:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:47:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:48:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:49:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:50:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:51:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:52:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:53:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:54:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:55:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:56:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:57:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:58:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 06:59:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:00:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:01:23 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:02:23 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:03:23 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:04:23 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:05:23 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:06:23 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:07:23 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:08:23 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:09:23 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:10:23 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:11:23 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:12:23 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:13:23 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:14:23 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:15:23 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:16:23 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:17:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:18:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:19:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:20:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:21:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:22:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:23:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:24:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:25:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:26:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:27:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:28:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:29:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:30:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:31:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:32:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:33:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:34:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:35:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:36:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:37:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:38:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:39:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:40:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:41:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:42:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:43:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:44:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:45:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:46:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:47:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:48:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:49:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:50:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:51:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:52:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:53:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:54:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:55:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:56:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:57:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:58:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 07:59:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 08:00:00 scheduler:906][m select blockchain_acticle:_on_cronjob data:,_on_cronjob
+[32m[I 180220 08:00:00 tornado_fetcher:181][m [200] blockchain_acticle:_on_cronjob data:,_on_cronjob 0s
+[34m[D 180220 08:00:00 project_module:143][m project: blockchain_acticle updated.
+[32m[I 180220 08:00:00 processor:205][m process blockchain_acticle:_on_cronjob data:,_on_cronjob -> [200] len:11 -> result:None fol:1 msg:0 err:None
+[32m[I 180220 08:00:00 scheduler:799][m restart task blockchain_acticle:39a5d807dfa3138874b9ece064664975 http://www.8btc.com/blockchain
+[32m[I 180220 08:00:00 scheduler:906][m select blockchain_acticle:39a5d807dfa3138874b9ece064664975 http://www.8btc.com/blockchain
+[32m[I 180220 08:00:01 tornado_fetcher:412][m [200] blockchain_acticle:39a5d807dfa3138874b9ece064664975 http://www.8btc.com/blockchain 0.85s
+[32m[I 180220 08:00:02 processor:205][m process blockchain_acticle:39a5d807dfa3138874b9ece064664975 http://www.8btc.com/blockchain -> [200] len:4245262 -> result:None fol:12 msg:0 err:None
+[32m[I 180220 08:00:02 scheduler:847][m task done blockchain_acticle:39a5d807dfa3138874b9ece064664975 http://www.8btc.com/blockchain
+[32m[I 180220 08:00:02 scheduler:906][m select blockchain_acticle:on_finished data:,on_finished
+[32m[I 180220 08:00:02 scheduler:799][m restart task blockchain_acticle:c003d9f5cf01a24f563697a4b40bab6f http://www.8btc.com/235y7
+[32m[I 180220 08:00:02 scheduler:799][m restart task blockchain_acticle:199b32dc963d608f43350c8b7a7e17f8 http://www.8btc.com/canadian-token-funding-platform
+[32m[I 180220 08:00:02 scheduler:799][m restart task blockchain_acticle:b299879dff140025c42e8cd3dd814f9f http://www.8btc.com/blockstream-samson-talks-about-lightning-network
+[32m[I 180220 08:00:02 scheduler:799][m restart task blockchain_acticle:06229573452c250e6ebe2eb68599033b http://www.8btc.com/4566644
+[32m[I 180220 08:00:02 scheduler:799][m restart task blockchain_acticle:f3af50bcf420d292c02ffa7da1f249ca http://www.8btc.com/singapore-central-bank
+[32m[I 180220 08:00:02 scheduler:799][m restart task blockchain_acticle:86104c4e1f501e97c660ecd46e1f9b90 http://www.8btc.com/love-on-blockchain
+[32m[I 180220 08:00:02 scheduler:799][m restart task blockchain_acticle:730cbac71e3eec0376b1be928266d761 http://www.8btc.com/ellen-explain-what-is-bitcoin-to-76-million-audience
+[32m[I 180220 08:00:02 scheduler:799][m restart task blockchain_acticle:01a895a586ebd352ebd49f33cb94bf49 http://www.8btc.com/xiongan-blockchain
+[32m[I 180220 08:00:02 scheduler:799][m restart task blockchain_acticle:7b344c59d3d8aced3180dfbbc80e7459 http://www.8btc.com/cryptos-tech-improving
+[32m[I 180220 08:00:02 scheduler:799][m restart task blockchain_acticle:ccf777c4e214f8a0ea52a281386518c4 http://www.8btc.com/digital-disruption-survey-70-of-singaporean-are-interested-in-blockchain-training
+[32m[I 180220 08:00:02 scheduler:799][m restart task blockchain_acticle:408c4f7c86c411d456ed1566d3255f8a http://www.8btc.com/2332211
+[32m[I 180220 08:00:02 scheduler:799][m restart task blockchain_acticle:f08292c9cf4b46481568d98dafaaed9f http://www.8btc.com/blockchain-bicycle
+[32m[I 180220 08:00:02 tornado_fetcher:181][m [200] blockchain_acticle:on_finished data:,on_finished 0s
+[32m[I 180220 08:00:02 scheduler:906][m select blockchain_acticle:c003d9f5cf01a24f563697a4b40bab6f http://www.8btc.com/235y7
+[32m[I 180220 08:00:02 scheduler:906][m select blockchain_acticle:730cbac71e3eec0376b1be928266d761 http://www.8btc.com/ellen-explain-what-is-bitcoin-to-76-million-audience
+[32m[I 180220 08:00:02 scheduler:906][m select blockchain_acticle:b299879dff140025c42e8cd3dd814f9f http://www.8btc.com/blockstream-samson-talks-about-lightning-network
+[32m[I 180220 08:00:02 processor:205][m process blockchain_acticle:on_finished data:,on_finished -> [200] len:11 -> result:None fol:0 msg:0 err:None
+[32m[I 180220 08:00:02 tornado_fetcher:412][m [200] blockchain_acticle:c003d9f5cf01a24f563697a4b40bab6f http://www.8btc.com/235y7 0.17s
+[32m[I 180220 08:00:02 tornado_fetcher:412][m [200] blockchain_acticle:730cbac71e3eec0376b1be928266d761 http://www.8btc.com/ellen-explain-what-is-bitcoin-to-76-million-audience 0.20s
+[32m[I 180220 08:00:03 processor:205][m process blockchain_acticle:c003d9f5cf01a24f563697a4b40bab6f http://www.8btc.com/235y7 -> [200] len:68741 -> result:['org_url' fol:0 msg:0 err:None
+[32m[I 180220 08:00:03 processor:205][m process blockchain_acticle:730cbac71e3eec0376b1be928266d761 http://www.8btc.com/ellen-explain-what-is-bitcoin-to-76-million-audience -> [200] len:71112 -> result:['org_url' fol:0 msg:0 err:None
+[32m[I 180220 08:00:03 scheduler:847][m task done blockchain_acticle:c003d9f5cf01a24f563697a4b40bab6f http://www.8btc.com/235y7
+[32m[I 180220 08:00:03 scheduler:847][m task done blockchain_acticle:730cbac71e3eec0376b1be928266d761 http://www.8btc.com/ellen-explain-what-is-bitcoin-to-76-million-audience
+[32m[I 180220 08:00:03 result_worker:35][m result blockchain_acticle:c003d9f5cf01a24f563697a4b40bab6f http://www.8btc.com/235y7 -> {'article_title': u'\u5de5\u55
+[32m[I 180220 08:00:03 result_worker:35][m result blockchain_acticle:730cbac71e3eec0376b1be928266d761 http://www.8btc.com/ellen-explain-what-is-bitcoin-to-76-million-audience -> {'article_title': u'\u6587\u5a
+[32m[I 180220 08:00:03 scheduler:906][m select blockchain_acticle:f08292c9cf4b46481568d98dafaaed9f http://www.8btc.com/blockchain-bicycle
+[32m[I 180220 08:00:03 tornado_fetcher:412][m [200] blockchain_acticle:f08292c9cf4b46481568d98dafaaed9f http://www.8btc.com/blockchain-bicycle 0.10s
+[32m[I 180220 08:00:04 processor:205][m process blockchain_acticle:f08292c9cf4b46481568d98dafaaed9f http://www.8btc.com/blockchain-bicycle -> [200] len:80496 -> result:['org_url' fol:0 msg:0 err:None
+[32m[I 180220 08:00:04 scheduler:847][m task done blockchain_acticle:f08292c9cf4b46481568d98dafaaed9f http://www.8btc.com/blockchain-bicycle
+[32m[I 180220 08:00:04 result_worker:35][m result blockchain_acticle:f08292c9cf4b46481568d98dafaaed9f http://www.8btc.com/blockchain-bicycle -> {'article_title': u'\u5171\u4e
+[32m[I 180220 08:00:04 scheduler:906][m select blockchain_acticle:408c4f7c86c411d456ed1566d3255f8a http://www.8btc.com/2332211
+[32m[I 180220 08:00:04 tornado_fetcher:412][m [200] blockchain_acticle:408c4f7c86c411d456ed1566d3255f8a http://www.8btc.com/2332211 0.11s
+[32m[I 180220 08:00:05 processor:205][m process blockchain_acticle:408c4f7c86c411d456ed1566d3255f8a http://www.8btc.com/2332211 -> [200] len:71590 -> result:['org_url' fol:0 msg:0 err:None
+[32m[I 180220 08:00:05 scheduler:847][m task done blockchain_acticle:408c4f7c86c411d456ed1566d3255f8a http://www.8btc.com/2332211
+[32m[I 180220 08:00:05 result_worker:35][m result blockchain_acticle:408c4f7c86c411d456ed1566d3255f8a http://www.8btc.com/2332211 -> {'article_title': u'2018\u5168
+[32m[I 180220 08:00:05 scheduler:906][m select blockchain_acticle:ccf777c4e214f8a0ea52a281386518c4 http://www.8btc.com/digital-disruption-survey-70-of-singaporean-are-interested-in-blockchain-training
+[32m[I 180220 08:00:05 tornado_fetcher:412][m [200] blockchain_acticle:ccf777c4e214f8a0ea52a281386518c4 http://www.8btc.com/digital-disruption-survey-70-of-singaporean-are-interested-in-blockchain-training 0.10s
+[32m[I 180220 08:00:05 processor:205][m process blockchain_acticle:ccf777c4e214f8a0ea52a281386518c4 http://www.8btc.com/digital-disruption-survey-70-of-singaporean-are-interested-in-blockchain-training -> [200] len:75125 -> result:['org_url' fol:0 msg:0 err:None
+[32m[I 180220 08:00:05 scheduler:847][m task done blockchain_acticle:ccf777c4e214f8a0ea52a281386518c4 http://www.8btc.com/digital-disruption-survey-70-of-singaporean-are-interested-in-blockchain-training
+[32m[I 180220 08:00:06 result_worker:35][m result blockchain_acticle:ccf777c4e214f8a0ea52a281386518c4 http://www.8btc.com/digital-disruption-survey-70-of-singaporean-are-interested-in-blockchain-training -> {'article_title': u'\u8c03\u67
+[31m[E 180220 08:00:06 result_worker:67][m 1406 (22001): Data too long for column 'org_url' at row 1
+    Traceback (most recent call last):
+      File "/home/pyspider-master/pyspider/result/result_worker.py", line 58, in run
+        self.on_result(task, result)
+      File "/home/pyspider-master/pyspider/result/result_worker.py", line 42, in on_result
+        capture_phase = self.capture_phase
+      File "/home/pyspider-master/pyspider/database/mysql/resultdb.py", line 119, in save
+        return self._replace(tablename, **self._stringify(obj_result))
+      File "/home/pyspider-master/pyspider/database/basedb.py", line 85, in _replace
+        dbcur = self._execute(sql_query, list(itervalues(values)))
+      File "/home/pyspider-master/pyspider/database/basedb.py", line 36, in _execute
+        dbcur.execute(sql_query, values)
+      File "/usr/local/lib/python2.7/dist-packages/mysql/connector/cursor.py", line 514, in execute
+        self._handle_result(self._connection.cmd_query(stmt))
+      File "/usr/local/lib/python2.7/dist-packages/mysql/connector/connection.py", line 488, in cmd_query
+        result = self._handle_result(self._send_cmd(ServerCmd.QUERY, query))
+      File "/usr/local/lib/python2.7/dist-packages/mysql/connector/connection.py", line 400, in _handle_result
+        raise errors.get_exception(packet)
+    DataError: 1406 (22001): Data too long for column 'org_url' at row 1
+[32m[I 180220 08:00:06 scheduler:906][m select blockchain_acticle:7b344c59d3d8aced3180dfbbc80e7459 http://www.8btc.com/cryptos-tech-improving
+[32m[I 180220 08:00:06 tornado_fetcher:412][m [200] blockchain_acticle:7b344c59d3d8aced3180dfbbc80e7459 http://www.8btc.com/cryptos-tech-improving 0.17s
+[32m[I 180220 08:00:07 processor:205][m process blockchain_acticle:7b344c59d3d8aced3180dfbbc80e7459 http://www.8btc.com/cryptos-tech-improving -> [200] len:75046 -> result:['org_url' fol:0 msg:0 err:None
+[32m[I 180220 08:00:07 scheduler:847][m task done blockchain_acticle:7b344c59d3d8aced3180dfbbc80e7459 http://www.8btc.com/cryptos-tech-improving
+[32m[I 180220 08:00:07 result_worker:35][m result blockchain_acticle:7b344c59d3d8aced3180dfbbc80e7459 http://www.8btc.com/cryptos-tech-improving -> {'article_title': u'\u65e0\u60
+[32m[I 180220 08:00:07 scheduler:906][m select blockchain_acticle:86104c4e1f501e97c660ecd46e1f9b90 http://www.8btc.com/love-on-blockchain
+[32m[I 180220 08:00:07 tornado_fetcher:412][m [200] blockchain_acticle:86104c4e1f501e97c660ecd46e1f9b90 http://www.8btc.com/love-on-blockchain 0.17s
+[32m[I 180220 08:00:08 processor:205][m process blockchain_acticle:86104c4e1f501e97c660ecd46e1f9b90 http://www.8btc.com/love-on-blockchain -> [200] len:72702 -> result:['org_url' fol:0 msg:0 err:None
+[32m[I 180220 08:00:08 scheduler:847][m task done blockchain_acticle:86104c4e1f501e97c660ecd46e1f9b90 http://www.8btc.com/love-on-blockchain
+[32m[I 180220 08:00:08 result_worker:35][m result blockchain_acticle:86104c4e1f501e97c660ecd46e1f9b90 http://www.8btc.com/love-on-blockchain -> {'article_title': u'\u6211\u80
+[32m[I 180220 08:00:08 scheduler:906][m select blockchain_acticle:01a895a586ebd352ebd49f33cb94bf49 http://www.8btc.com/xiongan-blockchain
+[32m[I 180220 08:00:08 tornado_fetcher:412][m [200] blockchain_acticle:01a895a586ebd352ebd49f33cb94bf49 http://www.8btc.com/xiongan-blockchain 0.12s
+[32m[I 180220 08:00:09 processor:205][m process blockchain_acticle:01a895a586ebd352ebd49f33cb94bf49 http://www.8btc.com/xiongan-blockchain -> [200] len:73718 -> result:['org_url' fol:0 msg:0 err:None
+[32m[I 180220 08:00:09 scheduler:847][m task done blockchain_acticle:01a895a586ebd352ebd49f33cb94bf49 http://www.8btc.com/xiongan-blockchain
+[32m[I 180220 08:00:09 result_worker:35][m result blockchain_acticle:01a895a586ebd352ebd49f33cb94bf49 http://www.8btc.com/xiongan-blockchain -> {'article_title': u'\u56fd\u51
+[32m[I 180220 08:00:09 scheduler:906][m select blockchain_acticle:f3af50bcf420d292c02ffa7da1f249ca http://www.8btc.com/singapore-central-bank
+[32m[I 180220 08:00:09 tornado_fetcher:412][m [200] blockchain_acticle:f3af50bcf420d292c02ffa7da1f249ca http://www.8btc.com/singapore-central-bank 0.09s
+[32m[I 180220 08:00:10 processor:205][m process blockchain_acticle:f3af50bcf420d292c02ffa7da1f249ca http://www.8btc.com/singapore-central-bank -> [200] len:69694 -> result:['org_url' fol:0 msg:0 err:None
+[32m[I 180220 08:00:10 scheduler:847][m task done blockchain_acticle:f3af50bcf420d292c02ffa7da1f249ca http://www.8btc.com/singapore-central-bank
+[32m[I 180220 08:00:10 result_worker:35][m result blockchain_acticle:f3af50bcf420d292c02ffa7da1f249ca http://www.8btc.com/singapore-central-bank -> {'article_title': u'\u65b0\u52
+[32m[I 180220 08:00:10 scheduler:906][m select blockchain_acticle:199b32dc963d608f43350c8b7a7e17f8 http://www.8btc.com/canadian-token-funding-platform
+[32m[I 180220 08:00:11 tornado_fetcher:412][m [200] blockchain_acticle:199b32dc963d608f43350c8b7a7e17f8 http://www.8btc.com/canadian-token-funding-platform 0.16s
+[32m[I 180220 08:00:11 processor:205][m process blockchain_acticle:199b32dc963d608f43350c8b7a7e17f8 http://www.8btc.com/canadian-token-funding-platform -> [200] len:72316 -> result:['org_url' fol:0 msg:0 err:None
+[32m[I 180220 08:00:11 scheduler:847][m task done blockchain_acticle:199b32dc963d608f43350c8b7a7e17f8 http://www.8btc.com/canadian-token-funding-platform
+[32m[I 180220 08:00:11 result_worker:35][m result blockchain_acticle:199b32dc963d608f43350c8b7a7e17f8 http://www.8btc.com/canadian-token-funding-platform -> {'article_title': u'\u53d6\u4e
+[32m[I 180220 08:00:11 scheduler:906][m select blockchain_acticle:06229573452c250e6ebe2eb68599033b http://www.8btc.com/4566644
+[32m[I 180220 08:00:12 tornado_fetcher:412][m [200] blockchain_acticle:06229573452c250e6ebe2eb68599033b http://www.8btc.com/4566644 0.21s
+[32m[I 180220 08:00:12 processor:205][m process blockchain_acticle:06229573452c250e6ebe2eb68599033b http://www.8btc.com/4566644 -> [200] len:73642 -> result:['org_url' fol:0 msg:0 err:None
+[32m[I 180220 08:00:12 result_worker:35][m result blockchain_acticle:06229573452c250e6ebe2eb68599033b http://www.8btc.com/4566644 -> {'article_title': u'\u5fae\u8f
+[32m[I 180220 08:00:12 scheduler:847][m task done blockchain_acticle:06229573452c250e6ebe2eb68599033b http://www.8btc.com/4566644
+[31m[E 180220 08:00:22 tornado_fetcher:204][m [599] blockchain_acticle:b299879dff140025c42e8cd3dd814f9f http://www.8btc.com/blockstream-samson-talks-about-lightning-network, HTTP 599: Connection timed out after 20000 milliseconds 20.00s
+[31m[E 180220 08:00:23 processor:205][m process blockchain_acticle:b299879dff140025c42e8cd3dd814f9f http://www.8btc.com/blockstream-samson-talks-about-lightning-network -> [599] len:0 -> result:None fol:0 msg:0 err:HTTPError(u'HTTP 599: Connection timed out after 20000 milliseconds',)
+[32m[I 180220 08:00:23 scheduler:906][m select blockchain_acticle:on_finished data:,on_finished
+[32m[I 180220 08:00:23 scheduler:900][m task retry 0/3 blockchain_acticle:b299879dff140025c42e8cd3dd814f9f http://www.8btc.com/blockstream-samson-talks-about-lightning-network
+[32m[I 180220 08:00:23 tornado_fetcher:181][m [200] blockchain_acticle:on_finished data:,on_finished 0s
+[32m[I 180220 08:00:23 processor:205][m process blockchain_acticle:on_finished data:,on_finished -> [200] len:11 -> result:None fol:0 msg:0 err:None
+[32m[I 180220 08:00:26 scheduler:529][m in 5m: new:13,success:12,retry:1,failed:0 blockchain_acticle:13,12,1,0
+[32m[I 180220 08:00:53 scheduler:906][m select blockchain_acticle:b299879dff140025c42e8cd3dd814f9f http://www.8btc.com/blockstream-samson-talks-about-lightning-network
+[32m[I 180220 08:00:53 tornado_fetcher:412][m [200] blockchain_acticle:b299879dff140025c42e8cd3dd814f9f http://www.8btc.com/blockstream-samson-talks-about-lightning-network 0.17s
+[32m[I 180220 08:00:53 processor:205][m process blockchain_acticle:b299879dff140025c42e8cd3dd814f9f http://www.8btc.com/blockstream-samson-talks-about-lightning-network -> [200] len:73384 -> result:['org_url' fol:0 msg:0 err:None
+[32m[I 180220 08:00:53 scheduler:906][m select blockchain_acticle:on_finished data:,on_finished
+[32m[I 180220 08:00:53 scheduler:847][m task done blockchain_acticle:b299879dff140025c42e8cd3dd814f9f http://www.8btc.com/blockstream-samson-talks-about-lightning-network
+[32m[I 180220 08:00:53 result_worker:35][m result blockchain_acticle:b299879dff140025c42e8cd3dd814f9f http://www.8btc.com/blockstream-samson-talks-about-lightning-network -> {'article_title': u'\u3010\u5d
+[32m[I 180220 08:00:53 tornado_fetcher:181][m [200] blockchain_acticle:on_finished data:,on_finished 0s
+[32m[I 180220 08:00:53 processor:205][m process blockchain_acticle:on_finished data:,on_finished -> [200] len:11 -> result:None fol:0 msg:0 err:None
+[32m[I 180220 08:01:26 scheduler:529][m in 5m: new:13,success:13,retry:1,failed:0 blockchain_acticle:13,13,1,0
+[32m[I 180220 08:02:26 scheduler:529][m in 5m: new:13,success:13,retry:1,failed:0 blockchain_acticle:13,13,1,0
+[32m[I 180220 08:03:26 scheduler:529][m in 5m: new:13,success:13,retry:1,failed:0 blockchain_acticle:13,13,1,0
+[32m[I 180220 08:04:26 scheduler:529][m in 5m: new:13,success:13,retry:1,failed:0 blockchain_acticle:13,13,1,0
+[32m[I 180220 08:05:26 scheduler:529][m in 5m: new:0,success:1,retry:0,failed:0 blockchain_acticle:0,1,0,0
+[32m[I 180220 08:06:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:07:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:08:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:09:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:10:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:11:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:12:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:13:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:14:27 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:15:27 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:16:27 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:17:27 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:18:27 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:19:27 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:20:27 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:21:27 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:22:27 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:23:27 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:24:27 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:25:27 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:26:28 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:27:28 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:28:28 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:29:28 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:30:28 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:31:28 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:32:28 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:33:28 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:34:28 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:35:28 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:36:28 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:37:28 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:38:29 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:39:29 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:40:29 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:41:29 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:42:29 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:43:29 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:44:29 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:45:29 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:46:29 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:47:29 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:48:29 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:49:29 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:50:29 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:51:30 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:52:30 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:53:30 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:54:30 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:55:30 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:56:30 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:57:30 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:58:30 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 08:59:30 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:00:30 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:01:30 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:02:30 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:03:30 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:04:30 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:05:30 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:06:30 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:07:30 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:08:30 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:09:30 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:10:30 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:11:31 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:12:31 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:13:31 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:14:31 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:15:31 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:16:31 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:17:31 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:18:31 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:19:31 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:20:31 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:21:32 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:22:32 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:23:32 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:24:32 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:25:32 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:26:32 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:27:32 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:28:32 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:29:32 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:30:32 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:31:32 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:32:33 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:33:33 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:34:33 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:35:33 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:36:33 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:37:33 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:38:33 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:39:33 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:40:33 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:41:33 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:42:34 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:43:34 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:44:34 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:45:34 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:46:34 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:47:34 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:48:34 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:49:34 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:50:34 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:51:34 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:52:34 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:53:34 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:54:34 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:55:35 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:56:35 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:57:35 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:58:35 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 09:59:35 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 10:00:35 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 10:01:35 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 10:02:35 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 10:03:35 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 10:04:35 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 10:05:35 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 10:06:35 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 10:07:35 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 10:08:35 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 10:09:35 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 10:10:35 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 10:11:35 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 10:12:35 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 10:13:35 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 10:14:35 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 10:15:35 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 10:16:35 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 10:17:35 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 10:18:35 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 10:19:35 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 10:20:35 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 10:21:36 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 10:22:36 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 10:23:36 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 10:24:36 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 10:25:36 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 10:26:36 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 10:27:36 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 10:28:36 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0 blockchain_acticle:0,0,0,0
+[32m[I 180220 10:29:36 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 10:30:36 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 10:31:36 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 10:32:36 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 10:33:36 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 10:34:36 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 10:35:36 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 10:35:50 tornado_fetcher:181][m [200] blockchain_acticle:data:,on_start data:,on_start 0s
+[32m[I 180220 10:35:55 tornado_fetcher:412][m [200] blockchain_acticle:39a5d807dfa3138874b9ece064664975 http://www.8btc.com/blockchain 1.01s
+[32m[I 180220 10:36:36 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[31m[E 180220 10:37:02 tornado_fetcher:204][m [599] blockchain_acticle:730cbac71e3eec0376b1be928266d761 http://www.8btc.com/ellen-explain-what-is-bitcoin-to-76-million-audience, HTTP 599: Connection timed out after 20000 milliseconds 20.00s
+[32m[I 180220 10:37:18 tornado_fetcher:412][m [200] blockchain_acticle:39a5d807dfa3138874b9ece064664975 http://www.8btc.com/blockchain 7.28s
+[32m[I 180220 10:37:36 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 10:38:36 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 10:39:20 tornado_fetcher:412][m [200] blockchain_acticle:c003d9f5cf01a24f563697a4b40bab6f http://www.8btc.com/235y7 2.38s
+[32m[I 180220 10:39:37 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 10:40:37 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 10:41:09 tornado_fetcher:412][m [200] blockchain_acticle:c003d9f5cf01a24f563697a4b40bab6f http://www.8btc.com/235y7 0.18s
+[32m[I 180220 10:41:37 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 10:42:37 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 10:43:37 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 10:44:37 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 10:45:37 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 10:46:37 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 10:47:37 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 10:48:37 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 10:49:37 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 10:50:38 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 10:51:38 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 10:52:38 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 10:53:38 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 10:54:38 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 10:55:38 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 10:56:38 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 10:57:38 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 10:58:38 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 10:59:38 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:00:38 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:01:38 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:02:38 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:03:39 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:04:39 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:05:39 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:06:39 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:07:39 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:08:39 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:09:39 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:10:39 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:11:39 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:12:39 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:13:40 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:14:40 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:15:40 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:16:40 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:17:40 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:18:40 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:19:40 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:20:40 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:21:40 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:22:40 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:23:40 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:24:41 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:25:41 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:26:41 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:27:41 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:28:41 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:29:41 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:30:41 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:31:41 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:32:41 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:33:41 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:34:41 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:35:41 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:36:41 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:37:41 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:38:42 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:39:42 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:40:42 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:41:42 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:42:42 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:43:42 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:44:42 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:45:42 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:46:42 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:47:42 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:48:42 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:49:42 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:50:43 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:51:43 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:52:43 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:53:43 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:54:43 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:55:43 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:56:43 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:57:43 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:58:43 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 11:59:43 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:00:43 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:01:43 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:02:43 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:03:43 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:04:43 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:05:43 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:06:43 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:07:43 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:08:43 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:09:43 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:10:43 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:11:43 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:12:43 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:13:43 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:14:43 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:15:43 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:16:43 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:17:44 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:18:44 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:19:44 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:20:44 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:21:44 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:22:44 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:23:44 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:24:44 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:25:44 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:26:44 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:27:44 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:28:44 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:29:44 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:30:44 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:31:44 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:32:44 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:33:44 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:34:44 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:35:44 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:36:44 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:37:44 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:38:44 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:39:44 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:40:45 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:41:45 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:42:45 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:43:45 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:44:45 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:45:45 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:46:45 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:47:45 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:48:45 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:49:45 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:50:45 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:51:45 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:52:45 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:53:45 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:54:45 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:55:45 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:56:45 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:57:45 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:58:45 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 12:59:45 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:00:45 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:01:45 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:02:45 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:03:46 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:04:46 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:05:46 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:06:46 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:07:46 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:08:46 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:09:46 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:10:46 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:11:46 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:12:46 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:13:46 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:14:46 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:15:46 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:16:46 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:17:47 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:18:47 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:19:47 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:20:47 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:21:47 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:22:47 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:23:47 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:24:47 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:25:47 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:26:47 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:27:48 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:28:48 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:29:48 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:30:48 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:31:48 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:32:48 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:33:48 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:34:48 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:35:48 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:36:48 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:37:49 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:38:49 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:39:49 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:40:49 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:41:49 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:42:49 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:43:49 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:44:49 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:45:49 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:46:49 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:47:49 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:48:49 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:49:50 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:50:50 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:51:50 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:52:50 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:53:50 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:54:50 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:55:50 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:56:50 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:57:50 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:58:50 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 13:59:50 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:00:50 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:01:50 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:02:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:03:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:04:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:05:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:06:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:07:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:08:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:09:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:10:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:11:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:12:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:13:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:14:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:15:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:16:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:17:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:18:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:19:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:20:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:21:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:22:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:23:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:24:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:25:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:26:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:27:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:28:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:29:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:30:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:31:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:32:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:33:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:34:51 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:35:52 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:36:52 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:37:52 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:38:52 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:39:52 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:40:52 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:41:52 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:42:52 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:43:52 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:44:52 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:45:52 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:46:52 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:47:53 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:48:53 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:49:53 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:50:53 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:51:53 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:52:53 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:53:53 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:54:53 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:55:53 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:56:53 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:57:53 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:58:54 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 14:59:54 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:00:54 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:01:54 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:02:54 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:03:54 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:04:54 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:05:54 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:06:54 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:07:54 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:08:54 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:09:54 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:10:55 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:11:55 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:12:55 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:13:55 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:14:55 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:15:55 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:16:55 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:17:55 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:18:55 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:19:55 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:20:55 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:21:56 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:22:56 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:23:56 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:24:56 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:25:56 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:26:56 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:27:56 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:28:56 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:29:56 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:30:56 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:31:56 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:32:56 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:33:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:34:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:35:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:36:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:37:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:38:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:39:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:40:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:41:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:42:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:43:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:44:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:45:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:46:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:47:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:48:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:49:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:50:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:51:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:52:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:53:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:54:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:55:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:56:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:57:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:58:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 15:59:57 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:00:58 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:01:58 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:02:58 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:03:58 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:04:58 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:05:58 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:06:58 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:07:58 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:08:58 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:09:58 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:10:58 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:11:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:12:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:13:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:14:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:15:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:16:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:17:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:18:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:19:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:20:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:21:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:22:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:23:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:24:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:25:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:26:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:27:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:28:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:29:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:30:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:31:59 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:33:00 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:34:00 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:35:00 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:36:00 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:37:00 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:38:00 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:39:00 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:40:00 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:41:00 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:42:00 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:43:00 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:44:00 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:45:01 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:46:01 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:47:01 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:48:01 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:49:01 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:50:01 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:51:01 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:52:01 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:53:01 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:54:01 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:55:02 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:56:02 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:57:02 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:58:02 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 16:59:02 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:00:02 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:01:02 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:02:02 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:03:02 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:04:02 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:05:02 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:06:03 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:07:03 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:08:03 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:09:03 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:10:03 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:11:03 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:12:03 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:13:03 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:14:03 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:15:03 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:16:04 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:17:04 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:18:04 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:19:04 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:20:04 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:21:04 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:22:04 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:23:04 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:24:04 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:25:04 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:26:04 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:27:04 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:28:04 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:29:05 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:30:05 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:31:05 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:32:05 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:33:05 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:34:05 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:35:05 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:36:05 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:37:05 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:38:05 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:39:05 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:40:05 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:41:06 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:42:06 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:43:06 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:44:06 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:45:06 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:46:06 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:47:06 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:48:06 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:49:06 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:50:06 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:51:06 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:52:06 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:53:06 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:54:07 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:55:07 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:56:07 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:57:07 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:58:07 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 17:59:07 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:00:07 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:01:07 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:02:07 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:03:07 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:04:07 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:05:08 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:06:08 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:07:08 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:08:08 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:09:08 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:10:08 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:11:08 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:12:08 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:13:08 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:14:08 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:15:09 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:16:09 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:17:09 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:18:09 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:19:09 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:20:09 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:21:09 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:22:09 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:23:09 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:24:09 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:25:09 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:26:09 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:27:09 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:28:09 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:29:09 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:30:09 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:31:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:32:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:33:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:34:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:35:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:36:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:37:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:38:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:39:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:40:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:41:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:42:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:43:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:44:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:45:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:46:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:47:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:48:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:49:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:50:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:51:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:52:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:53:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:54:10 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:55:11 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:56:11 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:57:11 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:58:11 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 18:59:11 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:00:11 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:01:11 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:02:11 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:03:11 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:04:11 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:05:11 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:06:11 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:07:11 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:08:11 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:09:11 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:10:11 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:11:11 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:12:11 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:13:11 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:14:11 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:15:12 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:16:12 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:17:12 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:18:12 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:19:12 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:20:12 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:21:12 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:22:12 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:23:12 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:24:12 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:25:12 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:26:12 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:27:12 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:28:12 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:29:12 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:30:13 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:31:13 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:32:13 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:33:13 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:34:13 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:35:13 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:36:13 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:37:13 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:38:13 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:39:13 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:40:13 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:41:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:42:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:43:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:44:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:45:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:46:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:47:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:48:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:49:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:50:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:51:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:52:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:53:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:54:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:55:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:56:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:57:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:58:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 19:59:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:00:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:01:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:02:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:03:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:04:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:05:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:06:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:07:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:08:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:09:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:10:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:11:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:12:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:13:14 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:14:15 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:15:15 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:16:15 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:17:15 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:18:15 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:19:15 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:20:15 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:21:15 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:22:15 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:23:15 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:24:15 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:25:15 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:26:15 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:27:15 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:28:16 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:29:16 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:30:16 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:31:16 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:32:16 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:33:16 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:34:16 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:35:16 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:36:16 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:37:16 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:38:16 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:39:17 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:40:17 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:41:17 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:42:17 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:43:17 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:44:17 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:45:17 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:46:17 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:47:17 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:48:17 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:49:18 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:50:18 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:51:18 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:52:18 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:53:18 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:54:18 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:55:18 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:56:18 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:57:18 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:58:18 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 20:59:18 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:00:19 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:01:19 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:02:19 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:03:19 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:04:19 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:05:19 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:06:19 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:07:19 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:08:19 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:09:19 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:10:19 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:11:19 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:12:20 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:13:20 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:14:20 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:15:20 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:16:20 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:17:20 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:18:20 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:19:20 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:20:20 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:21:20 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:22:21 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:23:21 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:24:21 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:25:21 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:26:21 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:27:21 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:28:21 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:29:21 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:30:21 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:31:21 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:32:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:33:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:34:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:35:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:36:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:37:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:38:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:39:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:40:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:41:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:42:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:43:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:44:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:45:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:46:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:47:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:48:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:49:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:50:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:51:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:52:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:53:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:54:22 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:55:23 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:56:23 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:57:23 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:58:23 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 21:59:23 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:00:23 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:01:23 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:02:23 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:03:23 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:04:23 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:05:23 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:06:23 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:07:23 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:08:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:09:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:10:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:11:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:12:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:13:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:14:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:15:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:16:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:17:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:18:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:19:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:20:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:21:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:22:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:23:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:24:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:25:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:26:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:27:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:28:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:29:24 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:30:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:31:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:32:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:33:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:34:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:35:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:36:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:37:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:38:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:39:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:40:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:41:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:42:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:43:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:44:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:45:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:46:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:47:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:48:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:49:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:50:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:51:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:52:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:53:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:54:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:55:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:56:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:57:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:58:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 22:59:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:00:25 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:01:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:02:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:03:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:04:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:05:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:06:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:07:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:08:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:09:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:10:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:11:26 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:12:27 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:13:27 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:14:27 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:15:27 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:16:27 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:17:27 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:18:27 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:19:27 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:20:27 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:21:27 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:22:27 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:23:27 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:24:28 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:25:28 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:26:28 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:27:28 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:28:28 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:29:28 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:30:28 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:31:28 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:32:28 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:33:28 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:34:28 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:35:28 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:36:28 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:37:28 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:38:28 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:39:28 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:40:28 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:41:28 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:42:28 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:43:28 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:44:28 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:45:28 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:46:29 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:47:29 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:48:29 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:49:29 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:50:29 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:51:29 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:52:29 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:53:29 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:54:29 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:55:29 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:56:29 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:57:29 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:58:30 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0
+[32m[I 180220 23:59:30 scheduler:529][m in 5m: new:0,success:0,retry:0,failed:0

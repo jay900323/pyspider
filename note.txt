@@ -1,0 +1,7 @@
+cli启动线程 9640->加载webui->不加载fetch->webui加载完毕 （只启动webui服务）
+fetcher启动线程 9720->启动fetcher处理线程run
+scheduler启动线程 5164->启动schedulerrpc服务和scheuler run线程->scheduler xmlrpc启动成功
+
+
+phantomjs启动命令
+phantomjs.exe', --ssl-protocol=any --disk-cache=true "D:\Aptana Studio 3 Workspace\pyspider-master\pyspider\fetcher\phantomjs_fetcher.js" 25555

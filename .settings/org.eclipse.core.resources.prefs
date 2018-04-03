@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//pyspider/database/basedb.py=utf-8
+encoding//pyspider/database/mysql/resultdb.py=utf-8
+encoding/run.py=utf-8

@@ -1,0 +1,27 @@
+{
+  "message_queue": "redis://127.0.0.1:6379/db",
+  "queue_maxsize": 100,
+  "taskdb": "mysql+taskdb://root:12345@127.0.0.1:3306/taskdb",
+  "projectdb": "mysql+projectdb://root:12345@127.0.0.1:3306/projectdb",
+  "resultdb": "sqlalchemy+oracle+resultdb://RESULTDB:vids123@172.16.1.31:1521/orclvids",
+  "phantomjs1": {
+  	"phantomjs_path": "32bit/phantomjs.exe",
+  	"auto-restart": false
+  },
+  "fetcher-num": 1,
+  "processor-num": 1,
+  "result-worker-num": 1,
+  "run-in":"thread",
+  "webui": {
+    "port": 5000,
+    "cdn": "/static/"
+  },
+   "scheduler" : {
+    "xmlrpc-host": "0.0.0.0",
+    "xmlrpc-port": 23333,
+    "delete-time": 3600
+  },
+  "result_worker":{
+  	"capture_phase":true
+  }
+}
